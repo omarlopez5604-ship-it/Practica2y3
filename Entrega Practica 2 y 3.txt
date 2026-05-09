@@ -1,0 +1,10 @@
+Nombre del Alumno: Omar Fernando Lopez Maravilla.  
+
+Hola profesor, le comparto mi proyecto en Godot de mi primer juego 2D.
+
+Repositorio de GitHub:
+https://github.com/omarlopez5604-ship-it/Practica2y3
+
+Incluye el proyecto completo, el modelo, el screenshot y el README.
+
+Quedo atento a sus comentarios. ¡Gracias!
